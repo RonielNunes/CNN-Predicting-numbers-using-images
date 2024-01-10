@@ -1,4 +1,4 @@
-# CNN-Predicting-numbers-using-images
+# Predicting-numbers-using-images
 
 Este código cria uma arquitetura simples de CNN para um problema de classificação usando o conjunto de dados MNIST, que contém dígitos escritos à mão. Este modelo possui duas camadas convolucionais, seguidas por camadas de pooling, camadas totalmente conectadas e uma camada de saída. Para treinar e testar o modelo, você precisará de dados do conjunto MNIST e realizar operações de treinamento e avaliação.
 
